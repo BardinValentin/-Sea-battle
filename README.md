@@ -1,10 +1,7 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/vrn-itstep/factorial/badge)](https://www.codefactor.io/repository/github/vrn-itstep/factorial)
-
-# Factorial
-Вычисление факториала числа с использование рекурсии
+# Игра "Морской бой"
 
 ***
-Учебный проект по вычислению факториала числа с использование метода рекурсивного вычисления
+Учебный проект по игре "Морской бой".
 ***
 
 # Факториал
